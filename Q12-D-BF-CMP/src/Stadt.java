@@ -5,6 +5,8 @@
  */
 public class Stadt {
     public String stadt;
+    public float xKoordinate;
+    public float yKoordinate;
     public Stadt(String stadt) {
         this.stadt=stadt;
     }
