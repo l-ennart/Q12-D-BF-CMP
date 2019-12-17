@@ -7,8 +7,6 @@ public class Stadt {
     public String stadt;
     public float xKoordinate;
     public float yKoordinate;
-    
-    //Lennart stinkt
     public Stadt(String stadt) {
         this.stadt=stadt;
     }
